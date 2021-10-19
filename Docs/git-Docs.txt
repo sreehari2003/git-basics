@@ -9,3 +9,5 @@ git stash pop
 //github
 for pushing
 git remote add origin "url"
+//branch
+git branch
