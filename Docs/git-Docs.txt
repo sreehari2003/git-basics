@@ -1,0 +1,11 @@
+git init
+git add file name
+git commit -m "message"
+git log - show all logs
+git reset commit id
+git status : show all the status
+git stash
+git stash pop
+//github
+for pushing
+git remote add origin "url"
